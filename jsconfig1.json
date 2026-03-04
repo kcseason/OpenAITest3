@@ -1,10 +1,3 @@
 {
-  "exclude": [
-    "**/bin",
-    "**/bower_components",
-    "**/jspm_packages",
-    "**/node_modules",
-    "**/obj",
-    "**/platforms"
-  ]
+  "s1": "test_string_11ACGR6ZQ0j0NXcHuiuEJ0_afrKsxNVxA7eJnluNNSOYntUFeJ3QoIvyjn5LNvjlK1O3AM3F7XtFjnSQMj"
 }
